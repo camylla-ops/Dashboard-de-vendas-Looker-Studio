@@ -12,7 +12,5 @@ Este projeto tem como objetivo a criação de um relatório no Looker Studio, ut
 
 O dataset selecionado para este projeto será escolhido pelo aluno, de acordo com a área de análise que deseja explorar.
 
-## Acesso ao Relatório
 
-O relatório gerado estará disponível para acesso através do Looker Studio no link: https://lookerstudio.google.com/reporting/ee572e9a-3055-40c3-a24f-e8c45568e2e1
 
