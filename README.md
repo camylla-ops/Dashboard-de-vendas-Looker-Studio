@@ -1,4 +1,4 @@
-# Dashboard-Looker-Studio
+# Dashboard de vendas
 
  Bootcamp Analista de Dados - Martech - AD2 na Escola SoulCode Academy.
 
